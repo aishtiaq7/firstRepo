@@ -1,3 +1,3 @@
-1st line 
-2nd line 
-3rd line
+1st line - fixed 
+2nd line - fixed
+3rd line - fixed
