@@ -1,4 +1,6 @@
-1st line - fixed 
-2nd line - fixed
-3rd line - fixed
-4th line added. 
+first line 
+second line
+third line 
+fourth line 
+firth line 
+sixth line
